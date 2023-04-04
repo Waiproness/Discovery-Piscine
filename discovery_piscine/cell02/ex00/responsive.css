@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    padding:0;
+}
+table{
+    text-align: left;
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+}
+.block1{
+    background-color:#bdb76b;
+}
+.block2{
+    background-color:#ffb6c1;
+}
