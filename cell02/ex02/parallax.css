@@ -1,0 +1,43 @@
+body,html{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.BG1{
+    background-image: url(https://cdn.oneesports.vn/cdn-data/sites/4/2022/05/VALORANT-Mobile-APK-cover.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 100%;
+}
+.text1{
+    color: white;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+}
+.BG2{
+    background-color: black;
+    min-height: 50%;
+}
+.text2{
+    text-align: center;
+    top:120%;
+    width: 100%;
+    color: white;
+    position: absolute;
+}
+.BG3{
+    background-image: url(https://staticg.sportskeeda.com/editor/2022/10/9fafc-16655458679804-1920.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 100%;
+}
+.text3{
+    color: #000;
+    top: 200%;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+}
